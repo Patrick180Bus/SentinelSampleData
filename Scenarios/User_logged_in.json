@@ -1,6 +1,6 @@
 [
     {
-      "TimeGenerated": "",
+      "TimeGenerated": "17/05/2024",
       "Account": "Joop ter Broek",
       "AccountType": "User",
       "Computer": "DESKTOP-JOOP",
@@ -56,6 +56,6 @@
       "TransmittedServices": "",
       "VirtualAccount": "No",
       "WorkstationName": "DESKTOP-JOOP",
-      "PartitionKey": "2024-05-17T14:32:00Z"
+      "PartitionKey": ""
     }
 ]
