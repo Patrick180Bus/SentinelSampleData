@@ -56,25 +56,25 @@
       "DeviceCustomString1Label": "",
       "DeviceCustomString2": "",
       "DeviceCustomString2Label": "",
-      "DeviceCustomString3": ""
+      "DeviceCustomString3": "",
       "DeviceCustomString3Label": "",
-      "DeviceCustomString4": ""
+      "DeviceCustomString4": "",
       "DeviceCustomString4Label": "",
-      "DeviceCustomString5": ""
+      "DeviceCustomString5": "",
       "DeviceCustomString5Label": "",
-      "DeviceCustomString6": ""
+      "DeviceCustomString6": "",
       "DeviceCustomString6Label": "",
-      "DeviceDnsDomain": ""
+      "DeviceDnsDomain": "",
       "DeviceEventCategory": "",
-      "DeviceEventClassID": ""
+      "DeviceEventClassID": "",
       "DeviceExternalID": "",
-      "DeviceFacility": ""
+      "DeviceFacility": "",
       "DeviceInboundInterface": "",
-      "DeviceMacAddress": ""
+      "DeviceMacAddress": "",
       "DeviceName": "",
-      "DeviceNtDomain": ""
+      "DeviceNtDomain": "",
       "DeviceOutboundInterface": "",
-      "DevicePayloadId": ""
+      "DevicePayloadId": "",
       "DeviceProduct": "",
       "DeviceTimeZone": "",
       "DeviceTranslatedAddress": "",
@@ -162,6 +162,6 @@
       "ThreatDescription": "", 
       "ThreatSeverity": "", 
       "TimeGenerated": "", 
-      "Type": "", 
+      "Type": "" 
     }
 ]
