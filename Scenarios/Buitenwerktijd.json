@@ -9,7 +9,7 @@
       "Task": 12544,
       "Level": 0,
       "EventData": "User login successful",
-      "EventID": 4624,
+      "EventID": "4624",
       "Activity": "Logon",
       "SourceComputerId": "DESKTOP-JAN",
       "EventOriginId": "0",
